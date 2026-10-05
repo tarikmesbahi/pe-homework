@@ -221,7 +221,7 @@ def sine_linear(freq1, freq2, duration):
 
 ```{code-cell} ipython3
 # décommenter pour écouter
-#MyAudio(sine_linear(440, 660, 3))
+MyAudio(sine_linear(440, 660, 3))
 ```
 
 ## réglage du volume
